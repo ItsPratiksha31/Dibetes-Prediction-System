@@ -63,7 +63,7 @@ DibetesPrediction/
 ### 🔧 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/diabetes-prediction-django.git
+git clone https://github.com/ItsPratiksha31/Dibetes-Prediction-System.git
 cd diabetes-prediction-django
 python manage.py runserver
 http://127.0.0.1:8000/
