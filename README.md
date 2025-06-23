@@ -58,6 +58,7 @@ DibetesPrediction/
 └── README.md                # This file
 
 
+
 ## 📦 Installation & Setup
 
 ### 🔧 Clone the Repository
@@ -67,4 +68,7 @@ git clone https://github.com/ItsPratiksha31/Dibetes-Prediction-System.git
 cd diabetes-prediction-django
 python manage.py runserver
 http://127.0.0.1:8000/
+
+
+
 
